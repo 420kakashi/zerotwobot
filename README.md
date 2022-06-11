@@ -43,4 +43,8 @@
 
 ## License
 Zero Two is Licensed Under GPL Version 3 [Read More Here](https://github.com/Black-Bulls-Bots/zerotwobot/blob/main/LICENSE)
+
+deployyyy
+
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/420kakashi/zerotwobot.git)
  
